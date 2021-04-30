@@ -6,11 +6,8 @@
 
 ![alt](img/example.png "example.png")
 
-<br /><br /><br />
-
-<font face="黑体" color=red size=5>这是红色黑体5号字</font>
-
 ### 我们已经帮您生成了5个动态交互图，您可以在Visual Graph->saved graphs中直接使用。也可以通过SPARQL语言查询我们的数据库，获取您所需要的数据和图例:
+
 <br />
 
 ![alt](img/saved_graphs.png "saved_graphs.png")
