@@ -6,7 +6,7 @@
 
 ![alt](img/example.png "example.png")
 
-### 我们已经帮您生成了5个动态交互图，您可以在Visual Graph->saved graphs中直接使用。也可以通过SPARQL语言查询我们的数据库，获取您所需要的数据和图例:
+### 数据库中已经生成了5个动态交互图，您可以在Visual Graph->saved graphs中直接使用。也可以通过SPARQL语言查询我们的数据库，获取您所需要的数据和图例:
 
 <br />
 
