@@ -10,8 +10,7 @@
 
 <br />
 
-### Five interactive graphs pre-generated in this database are accessible in the “Saved graphs” part.
-### You can also search this Earth Observation Ontology in the “Easy graph” part.
+### Five interactive graphs pre-generated in this database are accessible in the “Saved graphs” part. You can also search this Earth Observation Ontology in the “Easy graph” part.
 
 <br />
 
