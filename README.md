@@ -7,7 +7,7 @@
 
 ![alt](img/example.png "example.png")
 
-### 5 dynamic interactive graphs have been generated in the database, and you can directly use them through "Visual Graph->Saved graphs". You can also query our database through SPARQL language to get the data and legends you need:
+### 5 dynamic interactive graphs have been generated in the database, and you can directly use them through "Visual Graph->Saved graphs". You can also query our database through SPARQL language to get the data and diagrams you need:
 
 <br />
 
