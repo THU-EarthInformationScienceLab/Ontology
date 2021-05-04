@@ -1,5 +1,5 @@
 # Earth Observation Ontology
-![pic1](https://user-images.githubusercontent.com/37902279/116890952-c19c0e80-ac60-11eb-8592-622d44d0d1d0.png)
+![pic1-1](https://user-images.githubusercontent.com/37902279/116967803-be973180-ace5-11eb-8d8e-1f67b186e546.png)
 <br /><br />
 
 ### GraphDB was utilized to store and visualize this Earth Observation Ontology.
